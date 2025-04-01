@@ -65,15 +65,13 @@
   flex-direction: row;
   align-items: center;
   margin-top: 120px;
-  margin-left: 50px;
-  padding-bottom: 50px;
   color: white;
 }
 
 .cover__content__description-text {
   font-size: 22px;
   text-transform: uppercase;
-  word-spacing: 90%;
+  word-spacing: 8px;
 }
 
 /* ######################################## */
